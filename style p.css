@@ -164,6 +164,7 @@ body.dark-mode .slide-btn {
            align-items:center;
             justify-content:space-between;
             padding:80px 10% 0;
+             padding-bottom:200px;
              
         }  
 
@@ -202,7 +203,7 @@ body.dark-mode .slide-btn {
         }
 
         .group{
-               padding-bottom:40px;
+               padding-bottom:100px;
                padding-left:50px;
         }
        .group a{ 
@@ -871,4 +872,5 @@ body.dark-mode .slide-btn {
 
 
        
+
 
