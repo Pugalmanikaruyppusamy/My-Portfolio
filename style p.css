@@ -163,8 +163,7 @@ body.dark-mode .slide-btn {
              background:linear-gradient(90deg,white,rgb(210, 210, 221));
            align-items:center;
             justify-content:space-between;
-            padding:80px 10% 0;
-             padding-bottom:200px;
+            padding:60px 10% 0;
              
         }  
 
@@ -175,9 +174,7 @@ body.dark-mode .slide-btn {
                 box-shadow: 0 0 5px blueviolet,
                 0 0 25px blueviolet;}
     
-        .End{
-             border-bottom:200px;
-        }
+       
        .End h2{ font-size:3em;
                  color: grey;
                 opacity: 0;
@@ -203,7 +200,7 @@ body.dark-mode .slide-btn {
         }
 
         .group{
-               padding-bottom:100px;
+               /* padding-bottom:100px; */
                padding-left:50px;
         }
        .group a{ 
@@ -872,5 +869,6 @@ body.dark-mode .slide-btn {
 
 
        
+
 
 
